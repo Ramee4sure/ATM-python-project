@@ -1,0 +1,40 @@
+{
+    "Abdulsamad": {
+        "pin": 1234,
+        "balance": 16100,
+        "transactions": [
+            "Deposited \u20a63900 on 2025-11-08 19:23:51"
+        ]
+    },
+    "Maryam": {
+        "pin": 9214,
+        "balance": 71500,
+        "transactions": [
+            "Deposited \u20a667000 on 2025-11-08 19:06:50"
+        ]
+    },
+    "Ahmed": {
+        "pin": 1111,
+        "balance": 2000,
+        "transactions": [
+            "Withdrew \u20a61000 on 2025-11-08 19:14:35"
+        ]
+    },
+    "ramadan": {
+        "pin": 1234,
+        "balance": 3750,
+        "transactions": [
+            "Withdrew \u20a650 on 2025-11-08 19:24:38"
+        ]
+    },
+    "rawad": {
+        "pin": 2222,
+        "balance": 0,
+        "transactions": []
+    },
+    "saliu": {
+        "pin": 5543,
+        "balance": 0,
+        "transactions": []
+    }
+}

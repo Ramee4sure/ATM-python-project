@@ -61,7 +61,6 @@ This allows the program to retain account information even after closing the app
 6.View Transaction History
 
 7.Export Transaction History
-==============================
 
 
 ## Project Purpose
